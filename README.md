@@ -344,4 +344,4 @@ Este projeto é de código aberto sob a licença MIT. Sinta-se livre para usar, 
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade maker e IoT** 
+**Desenvolvido com ❤️ para a comunidade maker e IoT** # Conversor_ascii
